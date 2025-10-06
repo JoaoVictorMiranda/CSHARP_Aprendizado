@@ -1,6 +1,7 @@
 # Meus Estudos em C# 🚀
 
 Repositório dedicado aos meus primeiros passos no aprendizado de C#.
+CODIGOS FEITOS 100% SEM IA (apenas esse README.md)
 
 ## 📖 Sobre
 
