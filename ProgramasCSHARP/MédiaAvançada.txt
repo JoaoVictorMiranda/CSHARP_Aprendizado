@@ -1,0 +1,25 @@
+        Console.WriteLine("PROGRAMA DA MEDIA AVANÇADA");
+        Console.WriteLine("========================================");
+
+        Console.WriteLine("Digite o total de notas que voce gostaria de fazer a média");
+        string TotalNotas = Console.ReadLine() ?? "";
+        int notas = Convert.ToInt32(TotalNotas);
+        int[] notas2 = new int[notas];
+
+        Console.WriteLine("Digite suas notas: ");
+        for (int i = 0; i < notas2.Length; i++)
+        {
+            Console.Write($"Nota {i + 1}: ");
+            string inserir = Console.ReadLine() ?? "";
+            int inserirConvertido = Convert.ToInt32(inserir);
+            notas2[i] = inserirConvertido;
+        }
+
+        int soma = 0;
+        for (int i = 0; i < notas2.Length; i++)
+        {
+            soma += notas2[i];
+        }
+
+        int media = soma / notas;
+        Console.WriteLine($"A media de suas notas foi:  {media}");

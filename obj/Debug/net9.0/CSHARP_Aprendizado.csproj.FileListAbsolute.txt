@@ -1,0 +1,15 @@
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/bin/Debug/net9.0/CSHARP_Aprendizado
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/bin/Debug/net9.0/CSHARP_Aprendizado.deps.json
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/bin/Debug/net9.0/CSHARP_Aprendizado.runtimeconfig.json
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/bin/Debug/net9.0/CSHARP_Aprendizado.dll
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/bin/Debug/net9.0/CSHARP_Aprendizado.pdb
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.GeneratedMSBuildEditorConfig.editorconfig
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.AssemblyInfoInputs.cache
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.AssemblyInfo.cs
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.csproj.CoreCompileInputs.cache
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.sourcelink.json
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.dll
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/refint/CSHARP_Aprendizado.dll
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.pdb
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/CSHARP_Aprendizado.genruntimeconfig.cache
+/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/Debug/net9.0/ref/CSHARP_Aprendizado.dll
