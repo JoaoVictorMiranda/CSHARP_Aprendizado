@@ -17,7 +17,7 @@ class Program
         Console.Write("Digite o valor do Desconto: ");
         int desconto = Convert.ToInt32(Console.ReadLine());
 
-        
+        double ValorFinal = Descontar(preco, desconto);
 
         Console.WriteLine($"O valor final ficou em ${ValorFinal}");
 
