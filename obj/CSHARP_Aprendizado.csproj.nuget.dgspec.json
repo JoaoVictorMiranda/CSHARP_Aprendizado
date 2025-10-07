@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/CSHARP_Aprendizado.csproj": {}
+    "C:\\Users\\ra54140124822\\Documents\\GitHub\\CSHARP_Aprendizado\\CSHARP_Aprendizado.csproj": {}
   },
   "projects": {
-    "/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/CSHARP_Aprendizado.csproj": {
+    "C:\\Users\\ra54140124822\\Documents\\GitHub\\CSHARP_Aprendizado\\CSHARP_Aprendizado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/CSHARP_Aprendizado.csproj",
+        "projectUniqueName": "C:\\Users\\ra54140124822\\Documents\\GitHub\\CSHARP_Aprendizado\\CSHARP_Aprendizado.csproj",
         "projectName": "CSHARP_Aprendizado",
-        "projectPath": "/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/CSHARP_Aprendizado.csproj",
-        "packagesPath": "/home/_jonas_/.nuget/packages/",
-        "outputPath": "/home/_jonas_/Documentos/GitHub/CSHARP_Aprendizado/obj/",
+        "projectPath": "C:\\Users\\ra54140124822\\Documents\\GitHub\\CSHARP_Aprendizado\\CSHARP_Aprendizado.csproj",
+        "packagesPath": "C:\\Users\\ra54140124822\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ra54140124822\\Documents\\GitHub\\CSHARP_Aprendizado\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/_jonas_/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\ra54140124822\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -38,7 +38,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net9.0": {
@@ -54,18 +54,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[9.0.9, 9.0.9]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.110/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

@@ -6,31 +6,32 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("PROGRAMA DA MEDIA AVANÇADA");
-        Console.WriteLine("========================================");
+        /*Implementar um programa em Java para calcular o valor final de uma compra a
+        partir do valor da compra e do cupom de desconto. O cupom diz quantos reais
+        terá de desconto.*/
 
-        Console.WriteLine("Digite o total de notas que voce gostaria de fazer a média");
-        string TotalNotas = Console.ReadLine() ?? "";
-        int notas = Convert.ToInt32(TotalNotas);
-        int[] notas2 = new int[notas];
+        Console.WriteLine(" PROGRAMA DO DESCONTO ");
+        Console.Write("Digite o valor do produto: ");
+        int preco = Convert.ToInt32(Console.ReadLine());
 
-        Console.WriteLine("Digite suas notas: ");
-        for (int i = 0; i < notas2.Length; i++)
-        {
-            Console.Write($"Nota {i + 1}: ");
-            string inserir = Console.ReadLine() ?? "";
-            int inserirConvertido = Convert.ToInt32(inserir);
-            notas2[i] = inserirConvertido;
-        }
+        Console.Write("Digite o valor do Desconto: ");
+        int desconto = Convert.ToInt32(Console.ReadLine());
 
-        int soma = 0;
-        for (int i = 0; i < notas2.Length; i++)
-        {
-            soma += notas2[i];
-        }
+        
 
-        int media = soma / notas;
-        Console.WriteLine($"A media de suas notas foi:  {media}");
+        Console.WriteLine($"O valor final ficou em ${ValorFinal}");
 
     }
+
+    public static double Descontar(double Valor, double Desconto)
+    {
+        double ValorFinal = Valor - Desconto;
+        return ValorFinal;
+    }
+
+
+
+
+
+
 }
